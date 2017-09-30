@@ -1,0 +1,9 @@
+site "https://supermarket.getchef.com/api/v1"
+
+
+cookbook 'java', '~> 1.50.0'
+cookbook 'ark', '~> 3.1.0'
+cookbook 'java_se', '~> 8.144.0'
+cookbook 'postgresql', '~> 6.1.1'
+cookbook 'groovy', '~> 0.0.1'
+cookbook 'maven', '~> 5.0.1'

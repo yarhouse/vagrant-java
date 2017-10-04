@@ -7,3 +7,5 @@ cookbook 'java_se', '~> 8.144.0'
 cookbook 'postgresql', '~> 6.1.1'
 cookbook 'groovy', '~> 0.0.1'
 cookbook 'maven', '~> 5.0.1'
+cookbook 'nodejs', '~> 4.0.0'
+

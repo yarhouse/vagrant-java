@@ -24,6 +24,10 @@ SITE
       java (>= 1.38)
     mingw (2.0.1)
       seven_zip (>= 0.0.0)
+    nodejs (4.0.0)
+      ark (>= 2.0.2)
+      build-essential (>= 0.0.0)
+      compat_resource (>= 12.16)
     ohai (5.2.0)
     openssl (7.1.0)
     postgresql (6.1.1)
@@ -41,5 +45,6 @@ DEPENDENCIES
   java (~> 1.50.0)
   java_se (~> 8.144.0)
   maven (~> 5.0.1)
+  nodejs (~> 4.0.0)
   postgresql (~> 6.1.1)
 
